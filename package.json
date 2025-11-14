@@ -1,0 +1,21 @@
+{
+  "name": "init",
+  "version": "1.0.0",
+  "description": "what",
+  "main": "yes",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "keywords": [
+    "k"
+  ],
+  "author": "andy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
