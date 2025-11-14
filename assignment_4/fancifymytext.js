@@ -1,6 +1,4 @@
 
-alert("Hello, world!");
-
 function makeBigger() {
     alert("Hello, world!");
     document.getElementById("textArea").style.fontSize = "24pt";
